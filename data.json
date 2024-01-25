@@ -29,7 +29,6 @@
       "about": "Committed to sustainability and creating a greener future.",
       "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
       "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
-    },
-    // Add 17 more student profiles with similar structure
+    }
   ]
 }
