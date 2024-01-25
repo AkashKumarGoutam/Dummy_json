@@ -29,44 +29,79 @@
       "about": "Committed to sustainability and creating a greener future.",
       "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
       "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    },
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    },
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    },
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
     }
-     {
-      "name": "Sophie Martinez",
-      "profile_image": "sophie_martinez.jpg",
-      "course": "Environmental Science",
-      "year": 2,
-      "college": "RST Environmental College",
-      "about": "Committed to sustainability and creating a greener future.",
-      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
-      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
-    } {
-      "name": "Sophie Martinez",
-      "profile_image": "sophie_martinez.jpg",
-      "course": "Environmental Science",
-      "year": 2,
-      "college": "RST Environmental College",
-      "about": "Committed to sustainability and creating a greener future.",
-      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
-      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
-    } {
-      "name": "Sophie Martinez",
-      "profile_image": "sophie_martinez.jpg",
-      "course": "Environmental Science",
-      "year": 2,
-      "college": "RST Environmental College",
-      "about": "Committed to sustainability and creating a greener future.",
-      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
-      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
-    } {
-      "name": "Sophie Martinez",
-      "profile_image": "sophie_martinez.jpg",
-      "course": "Environmental Science",
-      "year": 2,
-      "college": "RST Environmental College",
-      "about": "Committed to sustainability and creating a greener future.",
-      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
-      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
-    } {
+    ,
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
       "name": "Sophie Martinez",
       "profile_image": "sophie_martinez.jpg",
       "course": "Environmental Science",
@@ -76,5 +111,71 @@
       "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
       "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
     }
+    ,
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    }
+    ,
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    }
+    ,
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    }
+    
+    
+    
   ]
 }
