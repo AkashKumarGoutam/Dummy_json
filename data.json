@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "name": "Emily Johnson",
+      "profile_image": "emily_johnson.jpg",
+      "course": "Biomedical Engineering",
+      "year": 4,
+      "college": "PQR Institute of Technology",
+      "about": "Passionate about merging technology and healthcare to improve lives.",
+      "skills": ["Python", "Bioinformatics", "Medical Imaging"],
+      "expertise": ["Biomechanics", "Biosensors"]
+    },
+    {
+      "name": "Michael Wang",
+      "profile_image": "michael_wang.jpg",
+      "course": "Business Administration",
+      "year": 3,
+      "college": "LMN Business School",
+      "about": "Striving for success in the dynamic world of business and entrepreneurship.",
+      "skills": ["Financial Analysis", "Marketing Strategy", "Leadership"],
+      "expertise": ["Strategic Planning", "Market Research"]
+    },
+    {
+      "name": "Sophie Martinez",
+      "profile_image": "sophie_martinez.jpg",
+      "course": "Environmental Science",
+      "year": 2,
+      "college": "RST Environmental College",
+      "about": "Committed to sustainability and creating a greener future.",
+      "skills": ["GIS", "Environmental Modeling", "Sustainable Development"],
+      "expertise": ["Climate Change Mitigation", "Eco-friendly Practices"]
+    },
+    // Add 17 more student profiles with similar structure
+  ]
+}
